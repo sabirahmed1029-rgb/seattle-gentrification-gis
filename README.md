@@ -15,6 +15,7 @@ Identify low-income census tracts in Seattle
 Analyze proximity to light rail stations
 Examine relationships between transit investment and gentrification
 Visualize spatial inequality using GIS mapping techniques
+
 Methods
 Joined ACS income data to Seattle census tract shapefiles using GEOID fields
 Performed spatial analysis including:
