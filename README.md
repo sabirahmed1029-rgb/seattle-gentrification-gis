@@ -1,4 +1,5 @@
-##Seattle Gentrification Spatial Analysis (QGIS)##
+Seattle Gentrification Spatial Analysis (QGIS)
+
 Overview
 
 This project analyzes patterns of gentrification and transit accessibility in Seattle using spatial analysis techniques in QGIS. The project focuses on how light rail investment relates to low-income communities and displacement risk across Seattle neighborhoods.
